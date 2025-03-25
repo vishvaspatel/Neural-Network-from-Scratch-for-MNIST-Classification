@@ -89,25 +89,6 @@ The neural network consists of the following layers:
 - **Confusion matrices** showed minor misclassification among visually similar digits.
 - **He Initialization** ensured smooth training without gradient vanishing/explosion.
 
-## How to Run
-### Prerequisites
-Ensure you have Python and the following libraries installed:
-```bash
-pip install numpy pandas matplotlib seaborn
-```
-
-### Running the Code
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/mnist-neural-network.git
-cd mnist-neural-network
-```
-2. Run the training script:
-```bash
-python train.py
-```
-3. View results and evaluation metrics.
-
 ## Conclusion
 This project successfully implemented a **neural network from scratch** for MNIST classification, achieving over **97% accuracy**. The study compared **ReLU vs. ELU**, experimented with **train-test splits**, and analyzed **confusion matrices**. The results highlight the effectiveness of manual NN implementation without deep learning libraries.
 
