@@ -111,12 +111,3 @@ python train.py
 ## Conclusion
 This project successfully implemented a **neural network from scratch** for MNIST classification, achieving over **97% accuracy**. The study compared **ReLU vs. ELU**, experimented with **train-test splits**, and analyzed **confusion matrices**. The results highlight the effectiveness of manual NN implementation without deep learning libraries.
 
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgment
-This project was completed as part of an assignment at IIT Jodhpur.
-
----
-Feel free to contribute or suggest improvements!
-
